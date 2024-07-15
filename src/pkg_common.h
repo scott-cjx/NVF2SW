@@ -19,7 +19,6 @@
 #define _PKG_COMMON
 
 #include "nvfcan.h"
-
 #include <stdint.h>
 
 /**
