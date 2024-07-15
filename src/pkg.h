@@ -13,29 +13,28 @@
 
 #endif /* BOARD */
 
-#if APP_HEARTBEAT
-    #include "app_heartbeat.h"
-#endif /* APP_HEARTBEAT */
+// #if APP_HEARTBEAT
+//     #include "app_heartbeat.h"
+// #endif /* APP_HEARTBEAT */
 
-#if APP_PDL
-    #include "app_pdl.h"
-#endif /* APP_PDL */
+// #if APP_PDL
+//     #include "app_pdl.h"
+// #endif /* APP_PDL */
 
-#if APP_R2D
-    // #include "app_r2d.h"
-#endif /* APP_R2D */
+// #if APP_R2D
+//     #include "small_general/app_r2d.h"
+// #endif /* APP_R2D */
 
-#if APP_MC
-    #include "app_mc.h"
-#endif /* APP_MC */
+// #if APP_MC
+//     #include "app_mc.h"
+// #endif /* APP_MC */
 
-#if APP_DB
-    #include "app_db.h"
-#endif /* APP_DB */
-
+// #if APP_DB
+//     #include "app_db.h"
+// #endif /* APP_DB */
 
 #if PKG_R2D
-    #include "pkg_r2d.h"
+    #include "small_general/pkg_r2d.h"
 #endif /* PKG_R2D */
 
 void setup_pkg();

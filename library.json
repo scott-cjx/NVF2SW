@@ -1,0 +1,24 @@
+{
+    "name": "NVF2SW",
+    "version": "1.0.0",
+    "description": "Common Core library for NVF2 SW",
+    "keywords": "",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/scott-cjx/nvf2sw"
+    },
+    "authors":
+    [
+      {
+        "name": "Scott CJX",
+        "email": "scottcjx.w@gmail.com",
+        "url": "https://www.scottcjx.com"
+      }
+    ],
+    "license": "GPLv3",
+    "homepage": "",
+    "dependencies": {},
+    "frameworks": "stm32cube",
+    "platforms": "ststm"
+  }

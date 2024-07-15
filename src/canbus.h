@@ -12,6 +12,7 @@ typedef struct __canbus_msg {
         uint8_t data[8];
         uint32_t data32[2];
     };
+    uint8_t canid_type;
     uint8_t which_can;
 } canbus_msg;
 
