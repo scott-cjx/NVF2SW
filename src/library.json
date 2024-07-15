@@ -1,0 +1,24 @@
+{
+    "name": "NVF2SW",
+    "version": "1.0.0",
+    "description": "Common Core library fro NVF2 SW",
+    "keywords": "",
+    "repository":
+    {
+      "type": "git",
+      "url": ""
+    },
+    "authors":
+    [
+      {
+        "name": "Scott CJX",
+        "email": "scottcjx.w@gmail.com",
+        "url": "https://www.scottcjx.com"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {},
+    "frameworks": "stm32cube",
+    "platforms": "*"
+  }
